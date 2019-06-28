@@ -17,10 +17,10 @@ columns=['playlist','numero','artista','artista_uri','artista_id','faixa','faixa
 df = pd.DataFrame(columns=columns)
 
 #dados para a autenticacao
-username='12150841917'
+username='XXXXXXXXX'
 scope=None
-client_id = '943e460183f346b8b999aade242ba010'
-client_secret='6cb83eb3383d4d9ca88793b1c1cdfa60'
+client_id = 'XXXXXXXXXXXXXXXXXX'
+client_secret='XXXXXXXXXXXXXXXXXX'
 redirect_uri='http://localhost/callback'
 
 #autenticando no spotify
