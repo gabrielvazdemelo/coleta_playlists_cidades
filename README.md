@@ -1,1 +1,1 @@
-# coleta_playlists_cidades
+# Playlists de cidades brasileiras no Spotify
