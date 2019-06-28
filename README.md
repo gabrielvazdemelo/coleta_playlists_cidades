@@ -5,7 +5,7 @@ Repository with codes in `Python` related to my masters' thesis *"O Som do Spoti
 To use, cite or download, it is avaiable [here](https://drive.google.com/open?id=0B02UoQlKCfZJVmtEUjJIQXU4dTZJRjZLNE5acC1mSEw5XzhZ).
 
 <p align="center">
-  <img width="250" height="250" src="https://github.com/gabrielvazdemelo/playlists_spotify/blob/master/img/figura_1.png">
+  <img width="300" height="250" src="https://github.com/gabrielvazdemelo/playlists_spotify/blob/master/img/figura_1.png">
 </p>
 
 ## Spotify Charts
